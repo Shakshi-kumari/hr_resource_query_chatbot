@@ -1,0 +1,274 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "gender": "female",
+      "skills": [
+        "Python",
+        "React",
+        "AWS"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "E-commerce Platform",
+        "Healthcare Dashboard"
+      ],
+      "availability": "available",
+      "specialization": "Full Stack Development",
+      "location": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "gender": "male",
+      "skills": [
+        "Java",
+        "Spring",
+        "Docker"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Banking App",
+        "Inventory System"
+      ],
+      "availability": "unavailable",
+      "specialization": "Backend Development",
+      "location": "San Francisco"
+    },
+    {
+      "id": 3,
+      "name": "Carol Lee",
+      "gender": "female",
+      "skills": [
+        "React Native",
+        "TypeScript",
+        "Node.js"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Fitness Tracker",
+        "Social Media App"
+      ],
+      "availability": "available",
+      "specialization": "Mobile Development",
+      "location": "Austin"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "gender": "male",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "TensorFlow"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "Retail Analytics"
+      ],
+      "availability": "available",
+      "specialization": "Machine Learning",
+      "location": "Boston"
+    },
+    {
+      "id": 5,
+      "name": "Emma Brown",
+      "gender": "female",
+      "skills": [
+        "AWS",
+        "DevOps",
+        "Docker"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Cloud Migration",
+        "CI/CD Pipeline"
+      ],
+      "availability": "unavailable",
+      "specialization": "DevOps Engineering",
+      "location": "Seattle"
+    },
+    {
+      "id": 6,
+      "name": "Frank Green",
+      "gender": "male",
+      "skills": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Healthcare Dashboard",
+        "Insurance Portal"
+      ],
+      "availability": "available",
+      "specialization": "Backend Development",
+      "location": "Chicago"
+    },
+    {
+      "id": 7,
+      "name": "Grace Lin",
+      "gender": "female",
+      "skills": [
+        "Python",
+        "Data Science",
+        "Pandas"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Patient Risk Prediction System",
+        "Sales Forecasting"
+      ],
+      "availability": "available",
+      "specialization": "Data Science",
+      "location": "Toronto"
+    },
+    {
+      "id": 8,
+      "name": "Henry Adams",
+      "gender": "male",
+      "skills": [
+        "JavaScript",
+        "Vue.js",
+        "Firebase"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "E-commerce Platform",
+        "Chatbot"
+      ],
+      "availability": "unavailable",
+      "specialization": "Frontend Development",
+      "location": "Miami"
+    },
+    {
+      "id": 9,
+      "name": "Ivy Wang",
+      "gender": "female",
+      "skills": [
+        "Python",
+        "Flask",
+        "SQL"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Inventory System",
+        "Healthcare Dashboard"
+      ],
+      "availability": "available",
+      "specialization": "Backend Development",
+      "location": "Vancouver"
+    },
+    {
+      "id": 10,
+      "name": "Jack Lee",
+      "gender": "male",
+      "skills": [
+        "React",
+        "Node.js",
+        "AWS"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Banking App",
+        "E-commerce Platform"
+      ],
+      "availability": "available",
+      "specialization": "Full Stack Development",
+      "location": "Los Angeles"
+    },
+    {
+      "id": 11,
+      "name": "Karen Patel",
+      "gender": "female",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Docker"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Healthcare Dashboard",
+        "Retail Analytics"
+      ],
+      "availability": "unavailable",
+      "specialization": "Backend Development",
+      "location": "London"
+    },
+    {
+      "id": 12,
+      "name": "Leo Zhang",
+      "gender": "male",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "PyTorch"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "Patient Risk Prediction System"
+      ],
+      "availability": "available",
+      "specialization": "Machine Learning",
+      "location": "Cambridge"
+    },
+    {
+      "id": 13,
+      "name": "Mona Singh",
+      "gender": "female",
+      "skills": [
+        "React Native",
+        "TypeScript",
+        "Firebase"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Social Media App",
+        "Fitness Tracker"
+      ],
+      "availability": "available",
+      "specialization": "Mobile Development",
+      "location": "Delhi"
+    },
+    {
+      "id": 14,
+      "name": "Nina Gupta",
+      "gender": "female",
+      "skills": [
+        "AWS",
+        "DevOps",
+        "Terraform"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Cloud Migration",
+        "CI/CD Pipeline"
+      ],
+      "availability": "unavailable",
+      "specialization": "DevOps Engineering",
+      "location": "Bangalore"
+    },
+    {
+      "id": 15,
+      "name": "Oscar Rivera",
+      "gender": "male",
+      "skills": [
+        "C#",
+        ".NET",
+        "Azure"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Insurance Portal",
+        "Retail Analytics"
+      ],
+      "availability": "available",
+      "specialization": "Backend Development",
+      "location": "Madrid"
+    }
+  ]
+}
